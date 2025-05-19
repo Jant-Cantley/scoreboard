@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    background-color: #1B244A;
+    text-align: center;
+}
+
+h3 {
+    color: white;
+    text-align: center;
+    
+}
+
+.score {
+    color: #F94F6D;
+    font-size: 90px;
+    font-family: Cursed Timer ULiL;
+    text-align: center;
+    background-color: #080001;
+    width: 135px;
+    margin: 20px;
+}
+
+button {
+    background-color: transparent;
+    color: #9AABD8;
+    font-family: Cursed Timer ULiL;
+    border-radius: 5px;
+    border-color: #9AABD8;
+    width: 45px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+#new-game {
+    background-color: #047857;
+    width: 90px;
+}
